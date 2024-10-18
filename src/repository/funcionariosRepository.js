@@ -40,7 +40,7 @@ export async function alterarPacientes(id, funcionario){
             Nome_Completo = ?,
             Data_Nascimento = ?,
             CPF = ?, 
-            Telefone = ?, 
+            Telefone = ?,
             Endereco = ?, 
             Cargo = ?, 
             Email = ?, 
